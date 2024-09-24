@@ -1,47 +1,46 @@
-    {
+{
   "extensionOptions": [
     {
-            displayName: 'Courtesy Extension',
-            value: 'Courtesy Extension',
-            outputName: 'Courtesy Extension',
-            ownerName: '',
-            showDuration: false
-        },
-        {
-            displayName: 'Pilot',
-            value: 'Pilot',
-            outputName: 'Pilot',
-            ownerName: 'Pilot Catastrophe Services - Corporate Account',
-            showDuration: true
-        },
-        {
-            displayName: 'Alacrity/Worley',
-            value: 'Alacrity/Worley',
-            outputName: 'Alacrity',
-            ownerName: 'Alacrity Solutions (formerly Worley Claims Solutions)',
-            showDuration: true
-        },
-        {
-            displayName: 'Pacesetter',
-            value: 'Pacesetter',
-            outputName: 'Pacesetter',
-            ownerName: 'Pacesetter Claims Service - Corporate Account',
-            showDuration: true
-        }
-    ];
-
-    const durationOptions = [
-        { value: 1, display: '1 Day' },
-        { value: 2, display: '2 Days' },
-        { value: 3, display: '3 Days' },
-        { value: 4, display: '4 Days' },
-        { value: 5, display: '5 Days' },
-        { value: 6, display: '6 Days' },
-        { value: 7, display: '7 Days' },
-        { value: 30, display: '30 Days' },
-        { value: 60, display: '60 Days' },
-        { value: 90, display: '90 Days' },
-        { value: 180, display: '180 Days' },
-        { value: 360, display: '360 Days' }
-      ]
+      "displayName": "Courtesy Extension",
+      "value": "Courtesy Extension",
+      "outputName": "Courtesy Extension",
+      "ownerName": "",
+      "showDuration": false
+    },
+    {
+      "displayName": "Pilot",
+      "value": "Pilot",
+      "outputName": "Pilot",
+      "ownerName": "Pilot Catastrophe Services - Corporate Account",
+      "showDuration": true
+    },
+    {
+      "displayName": "Alacrity/Worley",
+      "value": "Alacrity/Worley",
+      "outputName": "Alacrity",
+      "ownerName": "Alacrity Solutions (formerly Worley Claims Solutions)",
+      "showDuration": true
+    },
+    {
+      "displayName": "Pacesetter",
+      "value": "Pacesetter",
+      "outputName": "Pacesetter",
+      "ownerName": "Pacesetter Claims Service - Corporate Account",
+      "showDuration": true
+    }
+  ],
+  "durationOptions": [
+    { "value": 1, "display": "1 Day" },
+    { "value": 2, "display": "2 Days" },
+    { "value": 3, "display": "3 Days" },
+    { "value": 4, "display": "4 Days" },
+    { "value": 5, "display": "5 Days" },
+    { "value": 6, "display": "6 Days" },
+    { "value": 7, "display": "7 Days" },
+    { "value": 30, "display": "30 Days" },
+    { "value": 60, "display": "60 Days" },
+    { "value": 90, "display": "90 Days" },
+    { "value": 180, "display": "180 Days" },
+    { "value": 360, "display": "360 Days" }
+  ]
 }
