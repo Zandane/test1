@@ -1,9 +1,9 @@
 {
   "extensionOptions": [
     {
-      "displayName": "Courtesy Extensions",
-      "value": "Courtesy Extensionx",
-      "outputName": "Courtesy Extensionx",
+      "displayName": "Courtesy Extension",
+      "value": "Courtesy Extension",
+      "outputName": "Courtesy Extension",
       "ownerName": "",
       "showDuration": false
     },
