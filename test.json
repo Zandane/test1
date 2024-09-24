@@ -1,14 +1,14 @@
 {
   "extensionOptions": [
     {
-      "displayName": "Courtesy Extension",
+      "displayName": "Courtesy Extensions",
       "value": "Courtesy Extension",
       "outputName": "Courtesy Extension",
       "ownerName": "",
       "showDuration": false
     },
     {
-      "displayName": "Pilot",
+      "displayName": "Pilots",
       "value": "Pilot",
       "outputName": "Pilot",
       "ownerName": "Pilot Catastrophe Services - Corporate Account",
